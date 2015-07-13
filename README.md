@@ -1,13 +1,17 @@
 IBM MobileFirst Platform Foundation
 ===
-### Sample Name
+### Form-based authentication in native Windows 8 applications
 
 
 ### Usage
-Follow the instructions in the tutorials listed below.
+Follow the instructions in the tutorial(s) listed below.
 
 ### Tutorials
+**Server-side**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/form-based-authentication/
 
+**Native Windows 8**
+https://developer.ibm.com/mobilefirstplatform/documentation/getting-started-7-1/foundation/authentication-security/form-based-authentication/form-based-authentication-in-native-windows-8-applications/
 
 ### Supported Levels
 IBM MobileFirst Platform Foundation 7.1
